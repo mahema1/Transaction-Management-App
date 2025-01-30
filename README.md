@@ -19,7 +19,7 @@ Styling: CSS/TailwindCSS
 ## Set up a .env file in the root folder with your MongoDB connection string:
 MONGO_URL=your_mongo_connection_string
 
-## Run the backend server:
+## Run the backend server: 
 bash\
 npm start
 
