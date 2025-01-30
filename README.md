@@ -5,7 +5,7 @@ A full-stack transaction management application built with React.js, Express.js,
 
 
 ## Features:
-- Add new transactions with details like name, description, date, and price.
+- Add new transactions with details like name, description, date, and price. 
 - View all transactions in a dynamic table.
 - Fully functional backend API for managing transaction data.
 - Robust error handling and input validation for a smooth user experience.
